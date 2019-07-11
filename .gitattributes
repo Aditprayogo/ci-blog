@@ -21,4 +21,4 @@ tests/travis/ export-ignore
 # User Guide Source Files
 user_guide_src
 
-+.HTML linguist-language=PHP
++.html linguist-language=PHP
