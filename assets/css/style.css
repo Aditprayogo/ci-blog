@@ -1,0 +1,20 @@
+.post-date {
+	background:#f4f4f4;
+	padding:0px;
+    margin:3px 0;
+    display:block;
+}
+
+.post-thumb thumbnail{
+    width: 20px;
+}
+.pagination-links{
+    margin: 30px 0;
+}
+
+a.pagination-link{
+    padding: 8px 13px;
+    margin: 5px;
+    background : #f4f4f4;
+    border: 1px #ccc solid;
+}
